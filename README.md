@@ -5,5 +5,5 @@ Car parking managing website.
 **How to run**
 <br>
 <br>
-**Framework used**
+
 <br>
