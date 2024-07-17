@@ -7,4 +7,3 @@ Car parking managing website.
 <br>
 **Framework used**
 <br>
-CodeIgniter4 (MVC model)
